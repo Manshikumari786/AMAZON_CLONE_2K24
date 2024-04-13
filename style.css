@@ -190,7 +190,7 @@ span{
 }
 
 .box1-img{
-    background-image: url('https://drive.google.com/file/d/1YdcpDmFVt0tIc_pFSnkn2XnT7H9yOjVd/view?usp=sharing');
+    background-image: url("box1_image.jpg");
     height: 300px;
     background-size: cover;
 }
@@ -233,7 +233,7 @@ span{
 }
 
 .box8-img{
-    background-image: url('https://images.indianexpress.com/2019/09/toys.jpg?w=414');
+    background-image: url("box8_image.jpg");
     height: 300px;
     background-size: cover;
 }
@@ -246,6 +246,3 @@ span{
 .see-more{
     color: #007185;
 }
-
-
-
